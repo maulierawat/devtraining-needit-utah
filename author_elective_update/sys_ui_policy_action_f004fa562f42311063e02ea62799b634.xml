@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>comments</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-25 07:14:55</sys_created_on>
+        <sys_id>f004fa562f42311063e02ea62799b634</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>comments</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f004fa562f42311063e02ea62799b634</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-25 07:14:55</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="NeedIt State set to Withdrawn">3004fa562f42311063e02ea62799b630</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ae3c3c7ddbfbdf00cbf6d5b0cf9619f8</instance_id>
+        <instance_name>dev69482</instance_name>
+        <name>sys_ui_policy_action_f004fa562f42311063e02ea62799b634</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>comments</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-25 07:14:55</sys_created_on><sys_id>f004fa562f42311063e02ea62799b634</sys_id><sys_mod_count>0</sys_mod_count><sys_name>comments</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_f004fa562f42311063e02ea62799b634</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-25 07:14:55</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="NeedIt State set to Withdrawn">3004fa562f42311063e02ea62799b630</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1318753822</payload_hash>
+        <record_name>comments</record_name>
+        <reverted_from/>
+        <source>8723e51f2f6cf11063e02ea62799b68e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-25 07:14:55</sys_created_on>
+        <sys_id>b004fa562f42311063e02ea62799b637</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b65afb3e10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-25 07:14:55</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>f404fa56294231107cb0718142a85e36</update_guid>
+        <update_guid_history>f404fa56294231107cb0718142a85e36:1318753822</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-25 07:15:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>13743ab67efd42df911b4475753b6951</sys_id>
+        <sys_metadata>f004fa562f42311063e02ea62799b634</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>comments</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_f004fa562f42311063e02ea62799b634</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_f004fa562f42311063e02ea62799b634">b004fa562f42311063e02ea62799b637</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-25 07:15:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
